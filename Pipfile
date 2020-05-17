@@ -4,9 +4,15 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pytest = "*"
+rope = "*"
 
 [packages]
 ipython = "*"
+requests = "*"
+lxml = "*"
+emoji = "*"
+pygame = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"

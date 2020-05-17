@@ -1,0 +1,1022 @@
+[
+  {
+    "card_type": "Card Type",
+    "card_name": "Card Name",
+    "advanced": "Advanced Format"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Astrograph Sorcerer",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Blackwing \u2013 Gofu the Vague Shadow",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Blaster, Dragon Ruler of Infernos",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Cyber Jar",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Dandylion",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Djinn Releaser of Rituals",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Double Iris Magician",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Eclipse Wyvern",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Fairy Tail \u2013 Snow",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Fiber Jar",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Fishborg Blaster",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Grinder Golem",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Level Eater",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Magical Scientist",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Majespecter Unicorn \u2013 Kirin",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Makyura the Destructor",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Master Peace, the True Dracoslaying King",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Maxx \u201cC\u201d",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Mind Master",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Orcust Harp Horror",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Performage Plushfire",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Performapal Monkeyboard",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Performapal Skullcrobat Joker",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Phoenixian Cluster Amaryllis",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Redox, Dragon Ruler of Boulders",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Samsara Lotus",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Substitoad",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "The Tyrant Neptune",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Tidal, Dragon Ruler of Waterfalls",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Victory Dragon",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Yata-Garasu",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Fusion",
+    "card_name": "Elder Entity Norden",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Fusion",
+    "card_name": "Supreme King Dragon Starving Venom",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Fusion",
+    "card_name": "Thunder Dragon Colossus",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Firewall Dragon",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Guardragon Agarpain",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Heavymetalfoes Electrumite",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Knightmare Goblin",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Knightmare Mermaid",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Summon Sorceress",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "The Phantom Knights of Rusty Bardiche",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Topologic Gumblar Dragon",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Ancient Fairy Dragon",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Denglong, First of the Yang Zing",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Ib the World Chalice Justiciar",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Tempest Magician",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Lavalval Chain",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "M-X-Saber Invoker",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Number 16: Shock Master",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Number 42: Galaxy Tomahawk",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Number 86: Heroic Champion \u2013 Rhongomyniad",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Outer Entity Azathot",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Salamangreat Miragestallio",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Tellarknight Ptolemaeus",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Wind-Up Carrier Zenmaity",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Zoodiac Broadbull",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Zoodiac Drident",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Brilliant Fusion",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Butterfly Dagger \u2013 Elma",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Card of Safe Return",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Change of Heart",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Chicken Game",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Cold Wave",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Confiscation",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Delinquent Duo",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Dimension Fusion",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Giant Trunade",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Graceful Charity",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Harpie\u2019s Feather Duster",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Heavy Storm",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Kaiser Colosseum",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Last Will",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Mass Driver",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Metamorphosis",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Mirage of Nightmare",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Painful Choice",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Pot of Greed",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Premature Burial",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Rank-Up-Magic Argent Chaos Force",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Sky Striker Mobilize \u2013 Engage!",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Snatch Steal",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Soul Charge",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Spellbook of Judgment",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "That Grass Looks Greener",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "The Forceful Sentry",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Last Turn",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Return from the Different Dimension",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Royal Oppression",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Self-Destruct Button",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Sixth Sense",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Time Seal",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Trap Dustshoot",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Ultimate Offering",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Vanity\u2019s Emptiness",
+    "advanced": "Forbidden"
+  },
+  {
+    "card_type": "\u00a0",
+    "card_name": "\u00a0",
+    "advanced": "\u00a0"
+  },
+  {
+    "card_type": "Card Type",
+    "card_name": "Card Name",
+    "advanced": "Advanced Format"
+  },
+  {
+    "card_type": "Monster",
+    "card_name": "Left Arm of the Forbidden One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster",
+    "card_name": "Left Leg of the Forbidden One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster",
+    "card_name": "Right Arm of the Forbidden One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster",
+    "card_name": "Right Leg of the Forbidden One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Altergeist Multifaker",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Armageddon Knight",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Black Dragon Collapserpent",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Cir, Malebranche of the Burning Abyss",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Cyber-Stein",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Danger! Nessie!",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Dark Grepher",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Dinomight Knight, the True Dracofighter",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Dinowrestler Pankratops",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Exodia the Forbidden One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Genex Ally Birdman",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Graff, Malebranche of the Burning Abyss",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Infernity Archfiend",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Morphing Jar",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Night Assailant",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Phantom Skyblaster",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Red-Eyes Darkness Metal Dragon",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Salamangreat Gazelle",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Servant of Endymion",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Speedroid Terrortop",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "SPYRAL GEAR \u2013 Drone",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "SPYRAL Quik-Fix",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Tempest, Dragon Ruler of Storms",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "True King Lithosagym, the Disaster",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "White Dragon Wyverburster",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Zoodiac Ratpier",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Ritual",
+    "card_name": "Evigishki Gustkraken",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Ritual",
+    "card_name": "Evigishki Mind Augus",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Ritual",
+    "card_name": "Nekroz of Unicore",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Fusion",
+    "card_name": "Gem-Knight Master Diamond",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Fusion",
+    "card_name": "Ritual Beast Ulti-Cannahawk",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Dewloren, Tiger King of the Ice Barrier",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "Ignister Prominence, the Blasting Dracoslayer",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Synchro",
+    "card_name": "PSY-Framelord Omega",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Beatrice, Lady of the Eternal",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Monster/Xyz",
+    "card_name": "Daigusto Emeral",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "A Hero Lives",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Card Destruction",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Card of Demise",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Chain Strike",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Dimensional Fissure",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Divine Wind of Mist Valley",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Draco Face-Off",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Dragonic Diagram",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Emergency Teleport",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Final Countdown",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Foolish Burial",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Gateway of the Six",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Gold Sarcophagus",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Infernity Launcher",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Into the Void",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Magical Mid-Breaker Field",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Monster Reborn",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "One Day of Peace",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "One for One",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Pantheism of the Monarchs",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Pot of Avarice",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Raigeki",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Reasoning",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Reinforcement of the Army",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Salamangreat Circle",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Scapegoat",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Sekka\u2019s Light",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Set Rotation",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Sky Striker Mecha \u2013 Hornet Drones",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Sky Striker Mecha \u2013 Widow Anchor",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Sky Striker Mecha Modules \u2013 Multirole",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Slash Draw",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "SPYRAL Resort",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Symbol of Heritage",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Terraforming",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Trickstar Light Stage",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Upstart Goblin",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Imperial Order",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Macro Cosmos",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Magical Explosion",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Metaverse",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Red Reboot",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Skill Drain",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "True King\u2019s Return",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Wall of Revealing Light",
+    "advanced": "Limited"
+  },
+  {
+    "card_type": "\u00a0",
+    "card_name": "\u00a0",
+    "advanced": "\u00a0"
+  },
+  {
+    "card_type": "Card Type",
+    "card_name": "Card Name",
+    "advanced": "Advanced Format"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Danger!? Jackalope?",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Danger!? Tsuchinoko?",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Deep Sea Diva",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Necroface",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Tour Guide From the Underworld",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Mind Control",
+    "advanced": "Semi-Limited"
+  },
+  {
+    "card_type": "\u00a0",
+    "card_name": "\u00a0",
+    "advanced": "\u00a0"
+  },
+  {
+    "card_type": "Card Type",
+    "card_name": "Card Name",
+    "advanced": "Advanced Format"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Dark Armed Dragon",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Lady Debug",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Morphing Jar #2",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Performage Damage Juggler",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Monster/Effect",
+    "card_name": "Tribe-Infecting Virus",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Monster/Link",
+    "card_name": "Sky Striker Ace \u2013 Kagari",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "Book of Moon",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Spell",
+    "card_name": "The Phantom Knights\u2019 Rank-Up-Magic Launch",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Solemn Warning",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "Trap",
+    "card_name": "Soul Drain",
+    "advanced": "Unlimited"
+  },
+  {
+    "card_type": "",
+    "card_name": "",
+    "advanced": ""
+  }
+]
