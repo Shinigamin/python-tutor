@@ -1,6 +1,7 @@
-n1= int(input ('Digite um número'))
-n2= int(input ('digite mais um número '))
-s= n1 + n2
-
-print('A soma entre {} e {} vale {}'.format(n1 ,n2 ,s))
-#print ('A soma de valores entre',(n1), 'e ', (n2), 'é de {}'.format(s), 'jovem gafanhoto')
+"""Soma de 2 números"""
+print('-=-'* 20)
+n1= int(input('Digite o primeiro número \033[1;31m INTEIRO: \033[m'))
+n2= int(input('Digite o segundo número \033[1;31m INTEIRO: \033[m'))
+print('-=-' * 20)
+soma = n1 + n2
+print('A somatoria dos numeros digitados é: \033[1;35m{}\033[m'.format(soma))

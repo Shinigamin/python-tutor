@@ -1,8 +1,5 @@
-n1= input('Digite algo: ')
-print('O tipo primitivo desse valor é {}'.format(type))
-print('É um número? {}'.format(n1.isnumeric()))
-print('É alfabético?{}'.format(n1.isalpha()))
-print('É u alfanumerico? {}'.format(n1.isalnum()))
-print('Esta em maiusculas? {}'.format(n1.isupper()))
-print('Esta em minusculas:{}'.format(n1.islower()))
-print('Está capitalizada?{} '.format(n1.istitle()))
+"""Antesessor e sucessor"""
+número = int(input('Digite um número: '))
+ante = número - 1
+suce = número + 1
+print('O número digitado foi \033[31m{}\033[m e seu antecessor é \033[1;33m{}\033[m e seu sucessor é \033[1;32m{}\033[m'.format(número,ante,suce))
